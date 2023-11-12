@@ -1,26 +1,16 @@
 ### **Hello World!**
 
-Hello all! My name is Helder, currently I'm a Backend / Android
-Developer but my studies start in audio-visual (Movie, image and sound
-editing), web design (html, dreamweaver) and after that, with some
-forcing from my family i went to law school. Now-a-days i don't regret
-it but it was difficult at the begining and after 5 years in law school
-i didn´t finish the course. Anyways, now i have the knowledge of law and
-doing something i love... Coding :)
+Greetings! I'm Helder, currently immersed in the dynamic realm of Android development. While my educational journey commenced in audio-visual studies, including movie, image, and sound editing, and later delved into web design with HTML and Dreamweaver, I eventually found my true passion in coding.
 
-In my way to being a developer i found some tutorials, and courses. I
-did a course call 'Specialist Technician in Development of Information
-Systems' (Level V in Qualification Board - Portugal). In the course i
-learned the basis of programing and found out that what i really wanted
-was to keep digging knowledge in Java (for Android) and PHP for the
-backend / Server side.
+Although there was a detour through law school, the pursuit of knowledge in the legal field concluded after five years. However, this detour proved valuable as it equipped me with a unique blend of legal insight and a profound love for coding.
 
-After finish i started working in Primelayer where i work util now.
+My trajectory towards becoming a developer took shape through tutorials and courses, notably the 'Specialist Technician in Development of Information Systems' program (Level V in Qualification Board - Portugal). Here, I honed my programming foundations and discovered my eagerness to delve deeper into Java for Android development and PHP for backend/server-side operations.
 
-My know how now includes:
+Post-graduation, I embarked on my professional journey at Primelayer, where I have been actively engaged in Android development. My current skill set encompasses:
 - HTML & CSS
-- JavaScript (with jQuery)
-- PHP (using Codeigniter 3 & 4)
-- Kotlin (in Android Development)
-- kTor (for server side API's)
+- JavaScript (including jQuery)
+- PHP (utilizing Codeigniter 3 & 4)
+- Kotlin (for Android Development)
+- kTor (for server-side APIs)
 
+This amalgamation of skills allows me to navigate seamlessly between frontend and backend, ensuring a comprehensive approach to application development. I am enthusiastic about continually expanding my Android development proficiency and overcoming any challenges that come my way.
